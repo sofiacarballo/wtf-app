@@ -1,4 +1,5 @@
 # what-the-filia
+Check the app here: https://wtf--app.herokuapp.com/
 
 ## Project setup
 ```
